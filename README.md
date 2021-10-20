@@ -7,7 +7,7 @@ Testes Automatizados com Cypress.io
 * Necessário ter o JAVA instalado para execução dos testes
 * NPM (Node Package Manager) >> https://github.com/magnonsantos10/npm/wiki/NPM---NODE-PACKAGE-MANAGER
 
-## Instalação do Cypress
+## Instalação do Cypress >> https://docs.cypress.io/guides/getting-started/installing-cypress#npm-install
 
 ```
 npm install cypress --dev
