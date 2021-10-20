@@ -24,3 +24,7 @@ npx cypress open
 ```
 
 * Excluir os exemplos dentro da pasta integrations
+
+### Acesse a Wiki e veja os comandos básicos do Cypress
+
+https://github.com/magnonsantos10/automacaoTeste-com-Cypress/wiki/Comandos-B%C3%A1sicos-do-Cypress.io
