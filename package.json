@@ -1,0 +1,27 @@
+{
+  "name": "automacaoteste-com-cypress",
+  "version": "1.0.0",
+  "description": "Modelos de testes com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnonsantos10/automacaoTeste-com-Cypress.git"
+  },
+  "keywords": [
+    "automation",
+    "end-to-end",
+    "api"
+  ],
+  "author": "Felipe Magnon <@vulgoQA>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnonsantos10/automacaoTeste-com-Cypress/issues"
+  },
+  "homepage": "https://github.com/magnonsantos10/automacaoTeste-com-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
